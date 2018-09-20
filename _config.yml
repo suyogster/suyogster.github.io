@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: A Peak in Computer Science
 subtitle:
 description:
-author: John Doe
+author: Suyog Shrestha
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -213,8 +213,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+  GitHub: https://github.com/suyogster
 
 
 # Social Links Icons
@@ -381,7 +381,7 @@ han: false
 # Disqus
 disqus:
   enable: false
-  shortname:
+  shortname: Suyog
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
