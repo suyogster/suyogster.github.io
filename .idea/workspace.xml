@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27b81b13-2258-4543-9655-037a73f8e838" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1176107226">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="CNAME" value="2" />
+          <entry key="Gemfile" value="1" />
+          <entry key="css" value="1" />
+          <entry key="html" value="8" />
+          <entry key="md" value="15" />
+          <entry key="yml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="8" />
+          <entry key="Markdown" value="13" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="YAML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="368" />
+          <entry key="txt" value="275" />
+          <entry key="yml" value="300" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="368" />
+          <entry key="PLAIN_TEXT" value="275" />
+          <entry key="YAML" value="300" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.delete.remote" value="1" />
+          <entry key="git.branch.merge" value="1" />
+          <entry key="git.branch.rename" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="235" column="30" selection-start-line="235" selection-start-column="30" selection-end-line="235" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sin</find>
+      <find>power</find>
+      <find>theme</find>
+      <find>Theme</find>
+      <find>social</find>
+      <find>disq</find>
+      <find>RSS</find>
+      <find>favicon</find>
+      <find>avatar</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_posts/2013-12-24-中文測試.md" />
+        <option value="$PROJECT_DIR$/_posts/learning-post.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-20-learning-post.md" />
+        <option value="$PROJECT_DIR$/_posts/2013-12-24-categories.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-20-First-Blog.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-6" />
+    <option name="width" value="1920" />
+    <option name="height" value="1086" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="suyogster.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suyogster.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suyogster.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suyogster.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suyogster.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suyogster.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/favicon.ico" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27b81b13-2258-4543-9655-037a73f8e838" name="Default Changelist" comment="" />
+      <created>1537418930301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537418930301</updated>
+      <workItem from="1537418934084" duration="1871000" />
+      <workItem from="1537428450535" duration="7571000" />
+      <workItem from="1537448266346" duration="795000" />
+      <workItem from="1537449064988" duration="2324000" />
+      <workItem from="1537451391834" duration="3900000" />
+      <workItem from="1537501075587" duration="1327000" />
+      <workItem from="1537509231676" duration="595000" />
+      <workItem from="1537601893209" duration="599000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added NexT Theme">
+      <created>1537431803580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537431803580</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated NexT Theme">
+      <created>1537432080372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537432080372</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated NexT Theme">
+      <created>1537435547639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537435547639</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added NexT Theme">
+      <created>1537449270243</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537449270243</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated Configuration: Added Github URL, changed title and username">
+      <created>1537450864386</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1537450864386</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Deleted Initial Posts of NexT Theme">
+      <created>1537450957996</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537450957996</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Deleted Initial Posts of NexT Theme">
+      <created>1537451590760</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1537451590760</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated Configuration">
+      <created>1537451625985</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1537451625985</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated Configuration">
+      <created>1537451696945</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1537451696945</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated Configuration">
+      <created>1537451963999</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1537451964000</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Avatar Uploaded">
+      <created>1537457405166</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1537457405166</updated>
+    </task>
+    <task id="LOCAL-00012" summary="First Blog Test Added">
+      <created>1537457433076</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1537457433076</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Deleted First Blog">
+      <created>1537457547136</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1537457547136</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Profile Avatar Uploaded">
+      <created>1537457587437</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1537457587437</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18982000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18924618" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49973643" weight="0.3294979" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3294979" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002636" side_tool="true" weight="0.3294979" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated NexT Theme" />
+    <MESSAGE value="Added NexT Theme" />
+    <MESSAGE value="Updated Configuration: Added Github URL, changed title and username" />
+    <MESSAGE value="Deleted Initial Posts of NexT Theme" />
+    <MESSAGE value="Updated Configuration" />
+    <MESSAGE value="Avatar Uploaded" />
+    <MESSAGE value="First Blog Test Added" />
+    <MESSAGE value="Deleted First Blog" />
+    <MESSAGE value="Profile Avatar Uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Profile Avatar Uploaded" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/2014-02-16-Mathjax-with-jekyll.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-26-images.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-25-excerpts.md" />
+    <entry file="file://$PROJECT_DIR$/_layouts/archive.html" />
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-中文測試.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-tags.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2014-11-18-gallery-post.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-19-highlight-test.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-日本語テスト.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-long-title.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-categories.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-link-post.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-elements.md" />
+    <entry file="file://$PROJECT_DIR$/_site/archives/index.html" />
+    <entry file="file://$PROJECT_DIR$/_site/CNAME" />
+    <entry file="file://$PROJECT_DIR$/CNAME" />
+    <entry file="file://$PROJECT_DIR$/_site/assets/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/_site/index.html" />
+    <entry file="file://$PROJECT_DIR$/404.html" />
+    <entry file="file://$PROJECT_DIR$/Gemfile" />
+    <entry file="file://$PROJECT_DIR$/_layouts/category.html" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-20-next-tutorial.md" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-learning-post.md" />
+    <entry file="file://$PROJECT_DIR$/_layouts/index.html" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-First-Blog.md" />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="235" column="30" selection-start-line="235" selection-start-column="30" selection-end-line="235" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
